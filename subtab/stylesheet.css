@@ -1,0 +1,67 @@
+#nav{
+    background:rgba(0,0,0,0.2);
+    border: none;
+    font-weight: bold;
+    border-bottom: 0px;
+  }
+
+  #nav_white_2 li a{
+    color: white;
+    font-size: 1em;
+  }
+
+  #brand_white{
+      color: white;
+  }
+
+  body{
+    height: 100%;
+    background-image: url(http://www.ngi.com.br/novidades/wp-content/uploads/Lightbulb-on-green-background_xxl-1024x682.jpg);
+
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: border-box;
+    display: table-cell;
+    background-position-: -16em;
+    -webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+   
+  }
+
+  #topLogos{
+    margin-top: 5%;
+    margin-left: 37%;
+    
+  }
+
+  #logo1{
+    max-width: 12.5%;
+  }
+
+  #logo2{
+    max-width: 12.5%;
+  }
+
+  #logo3{
+    max-width: 12.5%;
+  }
+
+  #logo4{
+    max-width: 12.5%;
+  }
+
+  #st{
+    text-align: center;
+    padding-left: -2%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    font-family: 'Anton', sans-serif;
+    font-weight: bolder;
+    color:black;
+    letter-spacing: .2em;
+  }
+
+  
